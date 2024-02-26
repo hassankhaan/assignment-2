@@ -22,7 +22,7 @@ This is a simple web application built with Vue 3, Tailwind CSS, and Axios. It c
 2. Navigate to the project directory:
 
    ```bash
-   cd assignment-1
+   cd assignment-2
 3. Install dependencies:
 
    ```bash
@@ -30,5 +30,5 @@ This is a simple web application built with Vue 3, Tailwind CSS, and Axios. It c
 4. Run the development server:
 
    ```bash
-   npm run serve
+   npm run dev
    
