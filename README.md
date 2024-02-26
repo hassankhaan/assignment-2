@@ -14,7 +14,7 @@ This is a simple web application built with Vue 3, Tailwind CSS, and Axios. It c
 
 ## Demo
 
-Check out the live demo: [Task Manager Demo](https://assignment-2-hassankhaans-projects.vercel.app/)
+Check out the live demo: [Calculator and Random Anime Quote](https://assignment-2-hassankhaans-projects.vercel.app/)
 
 
 ## Project Setup
