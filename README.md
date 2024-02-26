@@ -12,6 +12,11 @@ This is a simple web application built with Vue 3, Tailwind CSS, and Axios. It c
 - Error handling for division by zero and failed API requests.
 - Responsive design with Tailwind CSS.
 
+## Demo
+
+Check out the live demo: [Task Manager Demo](https://assignment-2-hassankhaans-projects.vercel.app/)
+
+
 ## Project Setup
 
 1. Clone this repository:
